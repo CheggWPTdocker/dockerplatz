@@ -1,0 +1,36 @@
+[submodule "alpine"]
+	path = alpine
+	url = https://github.com/CheggWPTdocker/alpine.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/CheggWPTdocker/ruby.git
+[submodule "java"]
+	path = java
+	url = https://github.com/CheggWPTdocker/java.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/CheggWPTdocker/redis.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/CheggWPTdocker/nginx.git
+[submodule "nginx-php7"]
+	path = nginx-php7
+	url = https://github.com/CheggWPTdocker/nginx-php7.git
+[submodule "fakes3"]
+	path = fakes3
+	url = https://github.com/CheggWPTdocker/fakes3.git
+[submodule "fakesqs"]
+	path = fakesqs
+	url = https://github.com/CheggWPTdocker/fakesqs.git
+[submodule "languagetool"]
+	path = languagetool
+	url = https://github.com/CheggWPTdocker/languagetool.git
+[submodule "phpredisadmin"]
+	path = phpredisadmin
+	url = https://github.com/CheggWPTdocker/phpredisadmin.git
+[submodule "nginx-php7-office"]
+	path = nginx-php7-office
+	url = https://github.com/CheggWPTdocker/nginx-php7-office.git
+[submodule "wpt-backend"]
+	path = wpt-backend
+	url = https://github.com/CheggWPTdocker/wpt-backend.git
