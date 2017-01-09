@@ -34,3 +34,9 @@
 [submodule "wpt-backend"]
 	path = wpt-backend
 	url = https://github.com/CheggWPTdocker/wpt-backend.git
+[submodule "php7"]
+	path = php7
+	url = https://github.com/CheggWPTdocker/php7.git
+[submodule "php7-office"]
+	path = php7-office
+	url = https://github.com/CheggWPTdocker/php7-office.git
