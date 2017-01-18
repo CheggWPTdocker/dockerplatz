@@ -40,3 +40,15 @@
 [submodule "php7-office"]
 	path = php7-office
 	url = https://github.com/CheggWPTdocker/php7-office.git
+[submodule "statsd"]
+	path = statsd
+	url = https://github.com/CheggWPTdocker/statsd.git
+[submodule "tideways-daemon"]
+	path = tideways-daemon
+	url = https://github.com/CheggWPTdocker/tideways-daemon.git
+[submodule "build-test"]
+	path = build-test
+	url = https://github.com/CheggWPTdocker/build-test.git
+[submodule "php7-ci"]
+	path = php7-ci
+	url = https://github.com/CheggWPTdocker/php7-ci.git
