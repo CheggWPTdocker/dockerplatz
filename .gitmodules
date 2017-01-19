@@ -1,60 +1,80 @@
 [submodule "alpine"]
 	path = alpine
 	url = https://github.com/CheggWPTdocker/alpine.git
+	branch = master
 [submodule "ruby"]
 	path = ruby
 	url = https://github.com/CheggWPTdocker/ruby.git
+	branch = master
 [submodule "java"]
 	path = java
 	url = https://github.com/CheggWPTdocker/java.git
+	branch = master
 [submodule "redis"]
 	path = redis
 	url = https://github.com/CheggWPTdocker/redis.git
+	branch = master
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/CheggWPTdocker/nginx.git
+	branch = master
 [submodule "nginx-php7"]
 	path = nginx-php7
 	url = https://github.com/CheggWPTdocker/nginx-php7.git
+	branch = master
 [submodule "fakes3"]
 	path = fakes3
 	url = https://github.com/CheggWPTdocker/fakes3.git
+	branch = master
 [submodule "fakesqs"]
 	path = fakesqs
 	url = https://github.com/CheggWPTdocker/fakesqs.git
+	branch = master
 [submodule "languagetool"]
 	path = languagetool
 	url = https://github.com/CheggWPTdocker/languagetool.git
+	branch = master
 [submodule "phpredisadmin"]
 	path = phpredisadmin
 	url = https://github.com/CheggWPTdocker/phpredisadmin.git
+	branch = master
 [submodule "nginx-php7-office"]
 	path = nginx-php7-office
 	url = https://github.com/CheggWPTdocker/nginx-php7-office.git
+	branch = master
 [submodule "wpt-backend"]
 	path = wpt-backend
 	url = https://github.com/CheggWPTdocker/wpt-backend.git
+	branch = master
 [submodule "php7"]
 	path = php7
 	url = https://github.com/CheggWPTdocker/php7.git
+	branch = master
 [submodule "php7-office"]
 	path = php7-office
 	url = https://github.com/CheggWPTdocker/php7-office.git
+	branch = master
 [submodule "statsd"]
 	path = statsd
 	url = https://github.com/CheggWPTdocker/statsd.git
+	branch = master
 [submodule "tideways-daemon"]
 	path = tideways-daemon
 	url = https://github.com/CheggWPTdocker/tideways-daemon.git
+	branch = master
 [submodule "build-test"]
 	path = build-test
 	url = https://github.com/CheggWPTdocker/build-test.git
+	branch = master
 [submodule "php7-ci"]
 	path = php7-ci
 	url = https://github.com/CheggWPTdocker/php7-ci.git
+	branch = master
 [submodule "php7-nginx"]
 	path = php7-nginx
 	url = https://github.com/CheggWPTdocker/php7-nginx.git
+	branch = master
 [submodule "php7-nginx-office"]
 	path = php7-nginx-office
 	url = https://github.com/CheggWPTdocker/php7-nginx-office.git
+	branch = master
