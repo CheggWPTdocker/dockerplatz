@@ -52,3 +52,9 @@
 [submodule "php7-ci"]
 	path = php7-ci
 	url = https://github.com/CheggWPTdocker/php7-ci.git
+[submodule "php7-nginx"]
+	path = php7-nginx
+	url = https://github.com/CheggWPTdocker/php7-nginx.git
+[submodule "php7-nginx-office"]
+	path = php7-nginx-office
+	url = https://github.com/CheggWPTdocker/php7-nginx-office.git
